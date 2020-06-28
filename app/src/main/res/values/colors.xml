@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AE5CA9A1</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tabTextColor">#D81B60</color>
+    <color name="tabBackgroundColor">#DAF0F6F5</color>
+    <color name="textColor">#534B4B</color>
+    <color name="gradient_start">#00BFA5</color>
+    <color name="gradient_end">#1cefff</color>
+</resources>
