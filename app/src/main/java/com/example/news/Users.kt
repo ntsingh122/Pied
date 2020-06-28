@@ -1,6 +1,5 @@
 package com.example.news
 
-import android.net.Uri
 
 class Users {
     lateinit var name:String
