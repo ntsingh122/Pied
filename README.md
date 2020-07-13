@@ -1,2 +1,2 @@
 # Pied
-A randomised group chatting android application .
+A randomised chatting android application .
